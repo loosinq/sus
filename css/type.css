@@ -1,0 +1,209 @@
+@import url('all.css');
+
+/* New */
+
+@font-face {
+	font-family: 'Gooper Deck';
+	src: url('../fonts/GooperDeck7-Bold.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Gooper Deck';
+	src: url('../fonts/GooperDeck7-Black.woff2') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('../fonts/NotoSans-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('../fonts/NotoSans-BoldItalic.woff2') format('woff2');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('../fonts/NotoSans-Italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('../fonts/NotoSans-Bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('../fonts/NotoSans-Black.woff2') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Body */
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Thin.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Light.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Regular.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Medium.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Bold.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-ExtraBold.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Black.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/MintGroteskV1.1-Heavy.woff2") format("woff2");
+}
+
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 100;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Thin.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Light.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Regular.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Medium.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Bold.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-ExtraBold.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 800;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Black.woff2") format("woff2");
+}
+	
+@font-face {
+	font-family: 'Mint Grotesk';
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+	src: url("../fonts/MintGroteskItalicV1.1-Heavy.woff2") format("woff2");
+}
+
+/* Mono */
+
+@font-face {
+	font-family: 'Hack';
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+	src: url("../fonts/Hack-Regular.woff2") format("woff2");
+}
+
+/* Logotype */
+
+@font-face {
+	font-family: 'Museo Sans Rounded';
+	src: url('data:font/woff2;charset=utf-8;base64,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') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
